@@ -9,15 +9,15 @@ With the Netflix Recommendation Chrome extension, you no longer have to spend en
 
 ### Clone the project
 
-First step is to clone the repository and unzip
+The first step is to clone the repository and unzip
 
 ```bash
   git clone https://github.com/NiranjanHebli/Netflix-Series-Recommendation-Extension
 ```
 
-Go to the your chromium based browsers extensions menu
+Go to your Chromium based browsers extensions menu
 
-example from chrome:-
+example for Chrome:-
 ```bash
   chrome://extensions/
 
@@ -32,7 +32,7 @@ Click on **Load unpacked**
 
 ![WhatsApp Image 2023-06-15 at 10 32 02 AM](https://github.com/NiranjanHebli/Netflix-Series-Recommendation-Extension/assets/84934990/09a6cff6-2399-475f-aaf5-8b5a00c3c51b)
 
-Search for the folder and and select it
+Search for the folder and then select it
 
 Toggle the extension unpacked and pin it
 
